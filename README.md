@@ -15,7 +15,7 @@ Hi friends, I'm Mike, an AI developer from India. I have a keen interest in mach
 [<img align="left" alt="LinkedIn" width="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />](https://www.linkedin.com/)<br/>
 
 #### portfolio.
-<img align="left" alt="Instagram" width="22px" src="https://user-images.githubusercontent.com/41835586/102513526-a88a2b00-40ce-11eb-82b7-c8ef9407f8b7.png" />download PDF<img align="left" alt="Instagram" width="22px" src="https://user-images.githubusercontent.com/41835586/102513368-78db2300-40ce-11eb-866c-5ecfd5624e3e.png" />
+[download PDF](https://github.com) <img align="left" alt="Instagram" width="22px" src="https://user-images.githubusercontent.com/41835586/102513368-78db2300-40ce-11eb-866c-5ecfd5624e3e.png" />
 
 #### skill.
 
