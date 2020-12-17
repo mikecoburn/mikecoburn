@@ -1,4 +1,4 @@
-##### about.
+#### about.
 
 Hi friends, I'm Mike, an AI developer from India. I have a keen interest in machine learning and deep learning research, especially in a field of speech synthesis and computer vision. <br/>
 
@@ -8,7 +8,7 @@ Hi friends, I'm Mike, an AI developer from India. I have a keen interest in mach
 - How to reach me:  info.mikecoburn@gmail.com
 - Fun fact: I also write poetry.
 
-##### sns.
+#### sns.
 
 [<img align="left" alt="Instagram" width="22px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />](https://www.instagram.com/)
 [<img align="left" alt="Twitter" width="22px" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" />](https://twitter.com/)
