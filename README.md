@@ -25,3 +25,5 @@ Hi friends, I'm Mike, an AI developer from India. I have a keen interest in mach
 <img align="left" alt="Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
 <img align="left" alt="Github" width="26px" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-tile.svg" />
 
+![python](https://user-images.githubusercontent.com/41835586/102503622-411aae00-40c3-11eb-98bd-74bc10f6039d.png)
+![c++](https://user-images.githubusercontent.com/41835586/102503671-4d067000-40c3-11eb-85af-5d20c7375d2a.png)
