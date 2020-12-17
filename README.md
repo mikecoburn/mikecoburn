@@ -14,5 +14,5 @@ Hi friends, I'm Mike, an AI developer from India. I have a keen interest in mach
 
 #### skill.
 
-Python / C++ / AWS / VS Code / GitHub / Docker
+Python / C++ / AWS / VS Code / GitHub / Docker / MATLAB /Autodesk Inventer / Rhinoceros /
 
