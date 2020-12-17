@@ -16,6 +16,8 @@ Hi friends, I'm Mike, an AI developer from India. I have a keen interest in mach
 
 #### portfolio.
 
+download PDF
+
 #### skill.
 
 [<img align="left" alt="Python" width="26px" src="https://user-images.githubusercontent.com/41835586/102507281-67424d00-40c7-11eb-8a25-f5b83878fe7e.png" />](https://www.python.org)
