@@ -1,8 +1,8 @@
 #### ABOUT :
 
-Hi friends, I'm Mike, an AI developer from India. I have a keen interest in machine learning and deep learning research, especially in a field of speech synthesis and computer vision. <br/>
+Hi friends, I'm Mike, an web developer from Japan. I have a keen interest in machine learning and deep learning research, especially in a field of speech synthesis and computer vision. <br/>
 
-- I’m currently working on Speech Synthesis and End to End Text to Speech (TTS) engines.
+- I’m currently working on Data Synthesis.
 - I love to code and contribute to Open Source.
 - Ask me anything regarding my work, code and research [here](https://github.com/mikecoburn/mikecoburn/issues).
 - How to reach me:  info.mikecoburn@gmail.com
