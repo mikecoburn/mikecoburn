@@ -1,4 +1,4 @@
-#### Hi there, I'm Mike !
+##### about.
 
 Hi friends, I'm Mike, an AI developer from India. I have a keen interest in machine learning and deep learning research, especially in a field of speech synthesis and computer vision. <br/>
 
@@ -8,15 +8,15 @@ Hi friends, I'm Mike, an AI developer from India. I have a keen interest in mach
 - How to reach me:  info.mikecoburn@gmail.com
 - Fun fact: I also write poetry.
 
-#### SNS :
+##### sns.
 
 [<img align="left" alt="Instagram" width="22px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />](https://www.instagram.com/)
 [<img align="left" alt="Twitter" width="22px" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" />](https://twitter.com/)
 [<img align="left" alt="LinkedIn" width="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />](https://www.linkedin.com/)<br/>
 
-#### Portfolio :
+#### portfolio.
 
-#### Skill :
+#### skill.
 
 [<img align="left" alt="Python" width="26px" src="https://user-images.githubusercontent.com/41835586/102507281-67424d00-40c7-11eb-8a25-f5b83878fe7e.png" />](https://www.python.org)
 [<img align="left" alt="C++" width="26px" src="https://user-images.githubusercontent.com/41835586/102503671-4d067000-40c3-11eb-85af-5d20c7375d2a.png" />](https://isocpp.org)
