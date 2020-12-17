@@ -10,12 +10,9 @@ Hi friends, I'm Mike, an AI developer from India. I have a keen interest in mach
 
 #### sns.
 
-[<img align="left" alt="Instagram" width="22px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />](https://www.instagram.com/)
-[<img align="left" alt="Twitter" width="22px" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" />](https://twitter.com/)
-[<img align="left" alt="LinkedIn" width="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />](https://www.linkedin.com/)<br/>
-
-#### portfolio.
-[download PDF](https://github.com) <img align="left" alt="Instagram" width="22px" src="https://user-images.githubusercontent.com/41835586/102513368-78db2300-40ce-11eb-866c-5ecfd5624e3e.png" />
+[<img align="left" alt="Instagram" width="22px" src="https://user-images.githubusercontent.com/41835586/102514676-197e1280-40d0-11eb-80b9-aef3b987650b.png" />](https://www.instagram.com/)
+[<img align="left" alt="Twitter" width="22px" src="https://user-images.githubusercontent.com/41835586/102514797-46322a00-40d0-11eb-8cee-14ce3ae42d56.png" />](https://twitter.com/)
+[<img align="left" alt="LinkedIn" width="22px" src="https://user-images.githubusercontent.com/41835586/102514895-68c44300-40d0-11eb-9119-ea8ee3a43a02.png" />](https://www.linkedin.com/)<br/>
 
 #### skill.
 
