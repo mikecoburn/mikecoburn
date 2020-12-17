@@ -20,10 +20,8 @@ Hi friends, I'm Mike, an AI developer from India. I have a keen interest in mach
 [<img align="left" alt="C++" width="26px" src="https://user-images.githubusercontent.com/41835586/102503671-4d067000-40c3-11eb-85af-5d20c7375d2a.png" />](https://isocpp.org)
 [<img align="left" alt="AWS" width="26px" src="(https://user-images.githubusercontent.com/41835586/102507577-c4d69980-40c7-11eb-9a6c-f246116fbabb.png" />](https://aws.amazon.com)
 
-<img align="left" alt="Github" width="26px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Azure" width="26px" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" />
 <img align="left" alt="Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
 <img align="left" alt="Github" width="26px" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-tile.svg" />
-
+![amazon_aws-icon](https://user-images.githubusercontent.com/41835586/102507577-c4d69980-40c7-11eb-9a6c-f246116fbabb.png)
 
