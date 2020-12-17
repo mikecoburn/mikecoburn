@@ -16,14 +16,14 @@ Hi friends, I'm Mike, an AI developer from India. I have a keen interest in mach
 
 ### Languages and Tools:
 
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="PyTorch" width="26px" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" />
+[<img align="left" alt="Python" width="26px" src="https://user-images.githubusercontent.com/41835586/102507281-67424d00-40c7-11eb-8a25-f5b83878fe7e.png" />](https://www.python.org)
+[<img align="left" alt="C++" width="26px" src="https://user-images.githubusercontent.com/41835586/102503671-4d067000-40c3-11eb-85af-5d20c7375d2a.png" />](https://isocpp.org)
+[<img align="left" alt="AWS" width="26px" src="(https://user-images.githubusercontent.com/41835586/102507459-9fe22680-40c7-11eb-9942-85c7e19264a0.png" />](https://aws.amazon.com)
+
 <img align="left" alt="Github" width="26px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="AWS" width="26px" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" />
 <img align="left" alt="Azure" width="26px" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" />
 <img align="left" alt="Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
 <img align="left" alt="Github" width="26px" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-tile.svg" />
 
-[<img align="left" alt="Python" width="26px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />](https://www.python.org)
-[<img align="left" alt="C++" width="26px" src="https://user-images.githubusercontent.com/41835586/102503671-4d067000-40c3-11eb-85af-5d20c7375d2a.png" />](https://isocpp.org)
+
