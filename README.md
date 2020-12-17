@@ -10,9 +10,9 @@ Hi friends, I'm Mike, an AI developer from India. I have a keen interest in mach
 
 ### Connect with me:
 
-[<img align="left" alt="mikecoburn_jp | Instagram" width="22px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />](https://www.instagram.com/)
-[<img align="left" alt="mikecoburn_jp | Twitter" width="22px" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" />](https://twitter.com/)
-[<img align="left" alt="mikecoburn-jp | LinkedIn" width="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />](https://www.linkedin.com/)<br/>
+[<img align="left" alt="mikecoburn_jp | Instagram" width="22px" src="https://user-images.githubusercontent.com/41835586/102509297-bab59a80-40c9-11eb-8183-b8144f43312d.png"/>](https://www.instagram.com/)
+[<img align="left" alt="mikecoburn_jp | Twitter" width="22px" src="https://user-images.githubusercontent.com/41835586/102509352-cbfea700-40c9-11eb-8c5b-c88f79e0e1f6.png"/>](https://twitter.com/)
+[<img align="left" alt="mikecoburn-jp | LinkedIn" width="22px" src="hhttps://user-images.githubusercontent.com/41835586/102509402-da4cc300-40c9-11eb-9822-ee3f76438322.png"/>](https://www.linkedin.com/)<br/>
 
 ### Languages and Tools:
 
