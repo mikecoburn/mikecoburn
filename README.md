@@ -2,7 +2,7 @@
 
 Hi friends, I'm Mike, an web developer from Japan. I have a keen interest in machine learning and deep learning research, especially in a field of speech synthesis and computer vision. <br/>
 
-- I’m currently working on Data Synthesis.
+- I’m currently working on Software Engineer.
 - I love to code and contribute to Open Source.
 - Ask me anything regarding my work, code and research [here](https://github.com/mikecoburn/mikecoburn/issues).
 - How to reach me:  info.mikecoburn@gmail.com
