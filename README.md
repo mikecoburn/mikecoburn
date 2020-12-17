@@ -14,7 +14,7 @@ Hi friends, I'm Mike, an AI developer from India. I have a keen interest in mach
 
 #### SKILLS :
 
-PYTHON / C++ / AWS /
+PYTHON / C++ / DJANGO / AWS / 
 
 #### TOOLS :
 
