@@ -10,8 +10,8 @@ Hi friends, I'm Mike, an AI developer from India. I have a keen interest in mach
 
 ### Connect with me:
 
-[<img align="left" alt="mikecoburn_jp | Twitter" width="22px" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" />](https://twitter.com/)
 [<img align="left" alt="mikecoburn_jp | Instagram" width="22px" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" />](https://www.instagram.com/)
+[<img align="left" alt="mikecoburn_jp | Twitter" width="22px" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" />](https://twitter.com/)
 [<img align="left" alt="mikecoburn-jp | LinkedIn" width="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />](https://www.linkedin.com/)<br/>
 
 ### Languages and Tools:
