@@ -14,7 +14,7 @@ Hi friends, I'm Mike, an web developer from Japan. I have a keen interest in mac
 
 #### SKILLS :
 
-PYTHON / C++ / REACT / DJANGO / AWS / 
+PYTHON / C++ / JAVASCRIPT / REACT / DJANGO / AWS / 
 
 #### TOOLS :
 
