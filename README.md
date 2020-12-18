@@ -6,7 +6,7 @@ Hi friends, I'm Mike, an web developer from Japan. I have a keen interest in mac
 - I love to code and contribute to Open Source.
 - Ask me anything regarding my work, code and research [here](https://github.com/mikecoburn/mikecoburn/issues).
 - How to reach me:  info.mikecoburn@gmail.com
-- Fun fact: I also write poetry.
+- Fun fact: I also write qiita.
 
 #### SNS :
 
