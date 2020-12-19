@@ -12,10 +12,10 @@ Hi friends, I'm Mike an Electronic Engineer and Software Engineer from Japan. I 
 
 [Instagram](https://www.instagram.com/) / [Twitter](https://twitter.com/) / [LinkedIn](https://www.linkedin.com/)
 
-#### SKILLS
+#### SKILL
 
 Python / C++ / JavaScript / Django / React / AWS / GCP /
 
-#### TOOLS
+#### TOOL
 
 Visual Studio Code / GitHub / Docker / MATLAB / Autodesk Inventor / Rhinoceros 3D / Unreal Engine /
