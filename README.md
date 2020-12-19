@@ -1,6 +1,6 @@
 #### ABOUT :
 
-Hi friends, I'm Mike, an Electronic Engineer & Software Engineer from Japan. I have a keen interest in Machine Learning & Deep Learning Research, especially in the fields of Automatic 3D Model Generation & Control Engineering. <br/>
+Hi friends, I'm Mike, an Electronic Engineer & Software Engineer from Japan. I have a keen interest in Machine Learning & Deep Learning Research, especially in the fields of Automatic 3D Model Generation & Control Engineering.
 
 - I’m currently working on Electronic Engineer & Software Engineer.
 - I love to code and contribute to Open Source.
@@ -10,12 +10,12 @@ Hi friends, I'm Mike, an Electronic Engineer & Software Engineer from Japan. I h
 
 #### SNS :
 
-[INSTAGRAM](https://www.instagram.com/) / [TWITTER](https://twitter.com/) / [LINKEDIN](https://www.linkedin.com/)<br/>
+[Instagram](https://www.instagram.com/) / [Twitter](https://twitter.com/) / [LinkedIn](https://www.linkedin.com/)
 
 #### SKILLS :
 
-PYTHON / C++ / JAVASCRIPT / DJANGO / REACT / AWS / 
+Python / C++ / JavaScript / Django / React / AWS /
 
 #### TOOLS :
 
-VISUAL STUDIO CODE / GITHUB / DOCKER / MATLAB / AUTODESK INVENTER / RHINOCEROS 3D / UNREAL ENGINE /
+Visual Studio Code / GitHub / Docker / MATLAB / Autodesk Inventor / Rhinoceros 3D / Unreal Engine /
