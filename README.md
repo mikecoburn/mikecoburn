@@ -1,6 +1,6 @@
 #### ABOUT :
 
-Hi friends, I'm Mike, an web developer from Japan. I have a keen interest in machine learning and deep learning research, especially in a field of speech synthesis and computer vision. <br/>
+Hi friends, I'm Mike, an Electronics Engineer & Software Engineer from Japan. I have a keen interest in Machine Learning and Deep Learning Research, especially in the fields of Automatic 3D Model Generation & Control Engineering. <br/>
 
 - I’m currently working on Software Engineer.
 - I love to code and contribute to Open Source.
