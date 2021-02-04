@@ -5,7 +5,7 @@ Hi friends, I'm Mike an Electronic Engineer and Software Engineer from Japan. I 
 - I’m currently working on Electronic Engineer & Software Engineer.
 - I love to code and contribute to Open Source.
 - Ask me anything regarding my work, code and research [here](https://github.com/mikecoburn/mikecoburn/issues).
-- How to reach me:  ＊＊＊＊＊＊＊＊＊＊＊＊
+- How to reach me:  ＊＊＊＊＊＊＊＊＊＊
 - Fun fact: I also write Qiita.
 
 #### SNS
