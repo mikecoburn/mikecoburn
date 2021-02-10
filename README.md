@@ -14,7 +14,7 @@ Hi friends, I'm Mike an Electronic Engineer and Software Engineer from Japan. I 
 
 #### SKILL
 
-Python / C++ / JavaScript / Django / React / AWS / GCP /
+Python / C++ / JavaScript / React / Node.js / AWS / GCP /
 
 #### TOOL
 
