@@ -17,4 +17,4 @@ Python / C++ / JavaScript / Django / React / Node.js / AWS / GCP /
 
 #### TOOL
 
-Visual Studio Code / GitHub / Docker / MATLAB / Autodesk Inventor / Rhinoceros 3D / Unreal Engine /
+VS Code / PyCharm / GitHub / Docker / MATLAB / Autodesk Inventor / Rhinoceros 3D / Unreal Engine /
