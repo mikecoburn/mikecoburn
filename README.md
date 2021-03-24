@@ -13,8 +13,8 @@ Hi friends, I'm Mike an Electronic Engineer and Software Engineer from Japan. I 
 
 #### SKILL
 
-Python / C++ / JavaScript / Django / React / Node.js / AWS / GCP /
+Python / C++ / JavaScript / Django / React / Node.js / Docker / AWS / GCP /
 
 #### TOOL
 
-VS Code / PyCharm / GitHub / Docker / MATLAB / Autodesk Inventor / Rhinoceros 3D / Unreal Engine /
+VS Code / PyCharm / CLion / MATLAB / Autodesk Inventor / Rhinoceros 3D / Unreal Engine /
