@@ -1,4 +1,4 @@
-#### ABOUT
+#### about.
 
 Hi friends, I'm Mike an Electronic Engineer and Software Engineer from Japan. I have a keen interest in Machine Learning and Deep Learning Research, especially in the fields of Automatic 3D Model Generation and Control Engineering.
 
@@ -7,14 +7,14 @@ Hi friends, I'm Mike an Electronic Engineer and Software Engineer from Japan. I 
 - Ask me anything regarding my work, code and research [here](https://github.com/mikecoburn/mikecoburn/issues).
 - How to reach me:  ＊＊＊＊＊＊＊＊＊＊
 
-#### SNS
+#### sns.
 
 [Instagram](https://www.instagram.com/) / [Twitter](https://twitter.com/) / [LinkedIn](https://www.linkedin.com/)
 
-#### SKILL
+#### skill.
 
 Python / C++ / JavaScript / Django / React / Node.js / Docker / AWS / GCP /
 
-#### TOOL
+#### tool.
 
 VS Code / PyCharm / CLion / MATLAB / Autodesk Inventor / Rhinoceros 3D / Unreal Engine /
