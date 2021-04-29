@@ -8,12 +8,12 @@ Hi friends, I'm Mike an UI/UX Designer and R&D Engineer from Japan. I'm interest
 
 #### sns.
 
-[Instagram](https://www.instagram.com/) / [Twitter](https://twitter.com/) / [LinkedIn](https://www.linkedin.com/)
+[LinkedIn](https://www.linkedin.com/) / [Twitter](https://twitter.com/) / [Instagram](https://www.instagram.com/)
 
 #### skill.
 
-Python / C++ / JavaScript / Django / React / Node.js / Docker / AWS / GCP /
+Python / C++ / JavaScript / Django / React / Node.js / Docker / AWS / GCP
 
 #### tool.
 
-VS Code / PyCharm / CLion / MATLAB / Autodesk Inventor / Rhinoceros 3D / Unreal Engine /
+VS Code / PyCharm / CLion / MATLAB / Autodesk Inventor / Rhinoceros 3D / Unreal Engine
