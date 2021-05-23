@@ -12,7 +12,7 @@ Hi friends, I'm Mike an UI/UX Designer and R&D Engineer from Japan. I'm interest
 
 #### skill.
 
-Python / C++ / JavaScript / Django / React / Node.js / Docker / AWS / GCP /
+Python / C++ / JavaScript / Django / React.js / Node.js / Docker / AWS / GCP /
 
 #### tool.
 
