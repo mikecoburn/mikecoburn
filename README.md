@@ -8,7 +8,7 @@ Hi friends, I'm Mike an UI/UX Designer and R&D Engineer from Japan. I'm interest
 
 #### sns.
 
-[LinkedIn](https://www.linkedin.com/) / [Twitter](https://twitter.com/) / [Instagram](https://www.instagram.com/)
+[LinkedIn](https://www.linkedin.com/in/mikecoburn-jp/) / [Twitter](https://twitter.com/) / [Instagram](https://www.instagram.com/)
 
 #### skill.
 
