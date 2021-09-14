@@ -2,7 +2,7 @@
 
 Hi friends, I'm Mike an Chief Product Officer at weteam in Japan and It will also contribute to team formation in the United States in the future.
 
-- I’m currently working on UI/UX Designer & R&D Engineer.
+- I’m currently working on Chief Product Officer.
 - I love to code and contribute to Open Source.
 - Ask me anything regarding my work, code and research [here](https://github.com/mikecoburn/mikecoburn/issues).
 
