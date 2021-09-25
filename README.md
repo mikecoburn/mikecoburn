@@ -12,14 +12,14 @@ Hi friends, I'm Mike an Chief Product Officer at weteam in Japan and It will als
 [LinkedIn](https://www.linkedin.com/in/mikecoburn-jp/) / [Twitter](https://twitter.com/) / [Instagram](https://www.instagram.com/)
 
 
-#### skill.
-
-Python / C++ / JavaScript / Django / React.js / Terraform / Docker / AWS / GCP /
-
-
 #### tool.
 
 PyCharm / CLion / PhpStorm / MATLAB / Inventor / Rhinoceros 3D / Unreal Engine /
+
+
+#### skill.
+
+Python / C++ / Flutter / Firebase / Terraform / Docker / AWS / GCP /
 
 
 #### freak.
