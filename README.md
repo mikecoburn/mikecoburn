@@ -21,3 +21,7 @@ PyCharm / CLion / IntelliJ IDEA / MATLAB / Inventor / Rhinoceros 3D / Unreal Eng
 
 Python / C++ / Flutter / Firebase / Terraform / Docker / AWS / GCP /
 
+
+#### freak.
+
+Particle Physics / Neurobiology and Neurosciences /
