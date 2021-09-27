@@ -14,7 +14,7 @@ Hi friends, I'm Mike an Chief Product Officer at weteam in Japan and It will als
 
 #### tool.
 
-PyCharm / CLion / PhpStorm / MATLAB / Inventor / Rhinoceros 3D / Unreal Engine /
+PyCharm / CLion / IntelliJ IDEA / MATLAB / Inventor / Rhinoceros 3D / Unreal Engine /
 
 
 #### skill.
