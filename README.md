@@ -1,6 +1,6 @@
 #### about.
 
-Hi friends, I'm Mike an Chief Product Officer at weteam in Japan and It will also contribute to team formation in the United States in the future.
+Hi friends, I'm Mike an Chief Product Officer at Weteam in Japan and It will also contribute to team formation in the United States in the future.
 
 - I’m currently working on Chief Product Officer.
 - I love to code and contribute to Open Source.
