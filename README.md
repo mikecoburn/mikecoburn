@@ -19,4 +19,4 @@ Python / C++ / Flutter / Firebase / Terraform / Docker / AWS / GCP /
 
 #### freak.
 
-Particle Physics / Neurobiology and Neurosciences /
+Particle Physics / Neurobiology and Neurosciences / Computer Science /
