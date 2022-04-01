@@ -14,7 +14,7 @@ Hi friends, I'm Mike an Chief Product Officer at Weteam in Japan and It will als
 
 #### skill.
 
-Python / C++ / Flutter / Firebase / Terraform / Docker / AWS / GCP /
+Python / C++ / Flutter / Go / Terraform / Kubernetes / AWS / GCP /
 
 
 #### freak.
