@@ -13,7 +13,6 @@ Product Management - Able to understand business needs and propose solutions. <b
 Software Development - Ability to design user-friendly UI/UX and data analysis infrastructure that scales. <br>
 UI/UX Design - Material Design, Human Interface, Figma, Illustrator <br>
 Programming - AWS, GCP, Swift, Kotlin, Flutter, React, Javascript, Python, Go, Docker, Terraform, k8s <br>
-Language - Native Japanese, Full Professional English, Elementary French <br>
 
 
 ### interests
