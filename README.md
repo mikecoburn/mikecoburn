@@ -12,7 +12,7 @@ Hi friends, I'm Mike an Chief Product Officer at Weteam in Japan and It will als
 Product Management - Able to understand business needs and propose solutions. <br>
 Software Development - Ability to design user-friendly UI/UX and data analysis infrastructure that scales. <br>
 UI/UX Design - Material Design, Human Interface, Figma, Illustrator <br>
-Programming - AWS, GCP, Swift, Kotlin, Flutter, React, Javascript, Python, Go, Docker, Terraform, k8s <br>
+Programming - AWS, GCP, Swift, Flutter, React, Javascript, Python, Go, Terraform, k8s <br>
 
 
 ### interests
