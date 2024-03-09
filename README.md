@@ -13,14 +13,3 @@ Product Management - Able to understand business needs and propose solutions. <b
 Software Development - Ability to design user-friendly UI/UX and data analysis infrastructure that scales. <br>
 UI/UX Design - Material Design, Human Interface, Figma <br>
 Programming - AWS, GCP, Swift, TypeScript, Go, Python, Terraform, k8s <br>
-
-
-### interests
-
-BBQ - Once a month, I gather my friends and enjoy a BBQ at a place rich in nature. <br>
-Interior Design - On my days off, I look forward to going around the store looking for interior decorations. <br>
-
-
-### contact
-
-LinkedIn - https://www.linkedin.com/in/mikecoburn-jp/
