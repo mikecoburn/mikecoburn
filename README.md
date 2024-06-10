@@ -1,10 +1,12 @@
 ### about
 
-Hi friends, I'm Mike an Chief Product Officer at Weteam in Japan and It will also contribute to team formation in the United States in the future.
+Hi, I'm Mike, a Software Engineer with a passion for open-source projects.  
+I am fully committed to diving deep into software engineering and contributing significantly to open-source projects.  
+I love coding, solving complex problems, and sharing my solutions with the community.
 
-- I’m currently working on Chief Product Officer.
-- I love to code and contribute to Open Source.
-- Ask me anything regarding my work, code and research [here](https://github.com/mikecoburn/mikecoburn/issues).
+- Fully focused on software engineering and open-source contributions.
+- Enthusiastic about coding, problem-solving, and community engagement.
+- Feel free to ask me anything about my work, code, or research [here](https://github.com/mikecoburn/mikecoburn/issues).
 
 
 ### skill
