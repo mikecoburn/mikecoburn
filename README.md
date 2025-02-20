@@ -13,5 +13,5 @@ I love coding, solving complex problems, and sharing my solutions with the commu
 
 Product Management - Able to understand business needs and propose solutions. <br>
 Software Development - Ability to design user-friendly UI/UX and data analysis infrastructure that scales. <br>
-UI/UX Design - Material Design, Human Interface, Figma <br>
-Programming - AWS, GCP, Swift, TypeScript, Go, Rust, Python, Terraform, k8s <br>
+UI/UX Design - Human Interface, Figma <br>
+Programming - AWS, Swift, TypeScript, Rust, Python, Terraform, k8s <br>
